@@ -63,6 +63,7 @@ Tutorials
   The sprite module includes several classes that help manage details found in almost all games types.
   The Sprite classes are a bit more advanced than the regular pygame modules,
   and need more understanding to be properly used.
+  For an introductory video on spirtes please watch this 27 minute video: https://youtu.be/hDu8mcAlY4E
 
 :doc:`Surfarray Introduction <tut/SurfarrayIntro>`
   Pygame used the NumPy python module to allow efficient per pixel effects on images.
@@ -73,15 +74,19 @@ Tutorials
   Pygame, as of 1.9, has a camera module that allows you to capture images,
   watch live streams, and do some basic computer vision.
   This tutorial covers those use cases.
+  For a comprehensive video tutorial on using Camera in Pygame please watch this 1 hour 13 minute video: https://youtu.be/u7LPRqrzry8
 
 :doc:`Newbie Guide <tut/newbieguide>`
   A list of thirteen helpful tips for people to get comfortable using pygame.
 
 :doc:`Making Games Tutorial <tut/MakeGames>`
   A large tutorial that covers the bigger topics needed to create an entire game.
+  For a full tutorial of Pygame for beginners, please watch this 90 minute
+  beginners video from youtube: https://youtu.be/jO6qQDNa2UY
 
 :doc:`Display Modes <tut/DisplayModes>`
   Getting a display surface for the screen.
+  For full screen and resizing tutorial please watch this 8 minute video: https://youtu.be/edJZOQwrMKw
 
 :doc:`한국어 튜토리얼 (Korean Tutorial) <tut/ko/빨간블록 검은블록/개요>`
   빨간블록 검은블록
